@@ -196,4 +196,4 @@ The `EthereumJS` GitHub organization is maintained by the former Ethereum Founda
 
 ## License
 
-Most packages are [MPL-2.0](https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2)) licensed; see each package folder for its license file.
+Most packages are [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) licensed; see each package folder for its license file.
